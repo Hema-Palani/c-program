@@ -1,0 +1,1 @@
+Problem Statement -:  Raman was playing a game, in starting he has x coins at some point of the game he has to pay some coins to get into the next level of the game, during each game he can collect some coins. If at anypoint of the  game numbers of coins of Raman is less than one he will lose the game. Find the minimum value of x such that Raman wins.
